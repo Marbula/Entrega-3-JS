@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#resultado {
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: inline-block;
+  text-align: left;
+  width: 300px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
